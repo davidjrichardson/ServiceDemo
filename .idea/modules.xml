@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Fiddle/Fiddle.iml" filepath="$PROJECT_DIR$/Fiddle/Fiddle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FiddleProject.iml" filepath="$PROJECT_DIR$/FiddleProject.iml" />
+    </modules>
+  </component>
+</project>
+

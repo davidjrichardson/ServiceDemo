@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ServiceFiddle</string>
+
+    <string name="demo_title">Service Demonstration</string>
+    <string name="demo_summary">This app demonstrates how a service works. To use the app, select a
+            time to run using the seek bar below and press "begin service".</string>
+    <string name="demo_start">Begin Service</string>
+    <string name="demo_time_display" formatted="false">Time: %s seconds</string>
+
+</resources>
